@@ -10,6 +10,13 @@ The project will also investigate the technical and regulatory challenges involv
 
 ## Features
 
+- Automaticaly respondse to shift cover request without you needing to use your phone
+- Able to add availability to only respond to shift you can cover
+- Tracks shifts you are already covering
+- Webhook-based integration with WhatsApp Business API for real-time message handling
+- PostgreSQL database for persistent shift and availability tracking
+- Rule-based matching engine to filter shift requests against user availability
+- 
 ## Tech Stack
 ### Backend
 - Python
