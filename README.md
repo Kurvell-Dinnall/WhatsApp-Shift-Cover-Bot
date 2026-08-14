@@ -10,7 +10,24 @@ The project will also investigate the technical and regulatory challenges involv
 
 ## Features
 
-## Technologies
+## Tech Stack
+### Backend
+- Python
+- FastAPI
+- PostgreSQL
+
+### Frontend
+- Javascript
+- React
+
+### Dev Tools
+- UV
+- Ruff
+- mypy
+- pytest
+- pre-commit
+- Github Action
+
 
 ## System architecture/UML
 
